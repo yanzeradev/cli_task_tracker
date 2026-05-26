@@ -7,7 +7,7 @@ cd cli_task_tracker
 node tasks.js add "Learn Node.js"
 
 ```
-## Ajuada
+## Ajuda
 ### Comandos disponiveis
 ```bash
   node tasks.js add "descrição"  ->   Adiciona uma nova tarefa
